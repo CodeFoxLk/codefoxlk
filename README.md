@@ -7,13 +7,15 @@ I am also an open-source enthusiast and maintainer and love to share them with t
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codefoxlk&label=Profile%20views&color=0e75b6&style=flat" alt="codefoxlk" /> </p>
 
-\&nbsp;
+------------
+
 
 + 🌱 I'm currently learning  __JavaScript, TypeScrip__
 + 💬 Ask me about anything of  __Flutter__
 
+------------
+
 \
-&nbsp;\
 &nbsp;\
 &nbsp;
 ------------
