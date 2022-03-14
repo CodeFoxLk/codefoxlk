@@ -7,12 +7,20 @@
 🌱 I'm currently learning  **JavaScript, TypeScript**
 
 💬 Ask me about **anything of Flutter**
-
 </p>
+
 
 🔗  Connect with me
 <p>
-<a href="www.linkedin.com/in/eshan-nimesha-a57434149"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+<a href="www.linkedin.com/in/eshan-nimesha-a57434149"><img src="	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><a href="www.linkedin.com/in/eshan-nimesha-a57434149"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"></a>
+
 </p>
 
-🛠  Languages and Tools :
+####  🛠  Languages and Tools :
+
+Languages
+<p>
+ <img src  = "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt = "Flutter">
+  <img src  = "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt = "Flutter">
+</p>
+
