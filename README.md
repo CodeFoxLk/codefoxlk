@@ -8,9 +8,8 @@ I am also an open-source enthusiast and maintainer and love to share them with t
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codefoxlk&label=Profile%20views&color=0e75b6&style=flat" alt="codefoxlk" /> </p>
 
 <p align="center">
-- 🌱 I'm currently learning  ** JavaScript, TypeScrip** 
-\&nbsp;
-- 💬 Ask me about anything of  **Flutter**
+- 🌱 I'm currently learning  __JavaScript, TypeScrip__ \
+- 💬 Ask me about anything of  __Flutter__
 </p>
 
 \
@@ -18,11 +17,19 @@ I am also an open-source enthusiast and maintainer and love to share them with t
 &nbsp;\
 &nbsp;
 
+------------
+
+
 ### 🔗  Connect with me
 <p>
 <a href="www.linkedin.com/in/eshan-nimesha-a57434149"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://eshannimesha.com/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"></a>
 
 </p>
+
+
+------------
+
+
 
 ### 🛠  Languages and Tools :
 
@@ -70,6 +77,11 @@ Designing
  <img src  = "https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" alt = "PS">
   <img src  = "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt = "FIGMA">
 </p>
+
+
+------------
+
+
 
 ![Eshans's GitHub stats](https://github-readme-stats.vercel.app/api?username=codefoxlk&count_private=true&theme=dark)
 
