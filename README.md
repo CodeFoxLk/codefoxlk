@@ -12,7 +12,7 @@
 
 🔗  Connect with me
 <p>
-<a href="www.linkedin.com/in/eshan-nimesha-a57434149"><img src="	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="www.linkedin.com/in/eshan-nimesha-a57434149"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"></a>
+<a href="www.linkedin.com/in/eshan-nimesha-a57434149"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://eshannimesha.com/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"></a>
 
 </p>
 
@@ -28,3 +28,18 @@ Languages
   <img src  = "https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt = "Swift">
 </p>
 
+
+Languages
+<p>
+ <img src  = "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt = "flutter">
+ <img src  = "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt = "nodejs">
+  <img src  = "https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" alt = "firebase">
+    <img src  = "https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt = "Expressjs">
+    <img src  = "https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt = "sass">
+  <img src  = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt = "bootsrap">
+  <img src  = "https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=Appwrite&logoColor=white" alt = "appwriteio">
+ <img src  = "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt = "nodejs">
+  <img src  = "https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt = "material">
+    <img src  = "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt = "npm">
+
+</p>
