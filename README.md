@@ -8,8 +8,8 @@ I am also an open-source enthusiast and maintainer and love to share them with t
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codefoxlk&label=Profile%20views&color=0e75b6&style=flat" alt="codefoxlk" /> </p>
 
 <p align="center">
-🌱 I'm currently learning  **JavaScript, TypeScript**
-💬 Ask me about **anything of Flutter**
+- 🌱 I'm currently learning  **JavaScript, TypeScript**
+- 💬 Ask me about **anything of Flutter**
 </p>
 
 
@@ -65,6 +65,8 @@ Designing
  <img src  = "https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" alt = "PS">
   <img src  = "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt = "FIGMA">
 </p>
+
+![Eshans's GitHub stats](https://github-readme-stats.vercel.app/api?username=codefoxlk&count_private=true&theme=dark)
 
 
 
