@@ -8,8 +8,8 @@ I am also an open-source enthusiast and maintainer and love to share them with t
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codefoxlk&label=Profile%20views&color=0e75b6&style=flat" alt="codefoxlk" /> </p>
 
 <p align="center">
-- 🌱 I'm currently learning  ** JavaScript, TypeScrip** \
-&nbsp;
+- 🌱 I'm currently learning  ** JavaScript, TypeScrip** 
+\&nbsp;
 - 💬 Ask me about anything of  **Flutter**
 </p>
 
@@ -18,13 +18,13 @@ I am also an open-source enthusiast and maintainer and love to share them with t
 &nbsp;\
 &nbsp;
 
-####🔗  Connect with me
+### 🔗  Connect with me
 <p>
 <a href="www.linkedin.com/in/eshan-nimesha-a57434149"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://eshannimesha.com/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"></a>
 
 </p>
 
-####  🛠  Languages and Tools :
+### 🛠  Languages and Tools :
 
 Languages
 <p>
