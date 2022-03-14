@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Eshan Nimesha</h1>
+<h3 align="center">A passionate self-taught Front-End developer and a freelance software engineer</h3>
 
-<!--
-**CodeFoxLk/codefoxlk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=codefoxlk&label=Profile%20views&color=0e75b6&style=flat" alt="codefoxlk" /> </p>
 
-Here are some ideas to get you started:
+<p align="center">
+🌱 I'm currently learning  **JavaScript, TypeScript**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about **anything of Flutter**
+
+</p>
+
+🔗  Connect with me
+<p>
+<a href="www.linkedin.com/in/eshan-nimesha-a57434149"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
+
+🛠  Languages and Tools :
