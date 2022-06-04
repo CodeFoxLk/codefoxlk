@@ -50,21 +50,23 @@ Libraries & Frameworks
   <img src  = "https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=Appwrite&logoColor=white" alt = "appwriteio">
  <img src  = "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt = "nodejs">
   <img src  = "https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt = "material">
-    <img src  = "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt = "npm">
+    <img src  = "https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" alt = "ejs">
 
 </p>
 
 Platforms & Tools
 <p>
  <img src  = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt = "vscode">
+ <img src  = "https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt = "xcode">
  <img src  = "https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt = "unity">
  <img src  = "https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt = "slack">
-<img src  = "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt = "postman">	
-  <img src  = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt = "git">
+ <img src  = "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt = "postman">	
+ <img src  = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt = "git">
  <img src  = "https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white" alt = "source tree">
  <img src  = "https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt = "gitlab">
-  <img src  = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt = "github">
-  <img src  = "https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt = "dribble">
+ <img src  = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt = "github">
+ <img src  = "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt = "npm">
+ <img src  = "https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt = "dribble">
 </p>
 
 Designing
