@@ -82,7 +82,10 @@ Designing
 
 
 ![Eshans's GitHub stats](https://github-readme-stats.vercel.app/api?username=codefoxlk&count_private=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codefoxlk&layout=compact)](https://github.com/codefoxlk/github-readme-stats)
+
+------------
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codefoxlk&layout=compact&theme=dark)](https://github.com/codefoxlk/github-readme-stats)
 
 
 
