@@ -10,7 +10,7 @@ I am also an open-source enthusiast and maintainer and love to share them with t
 ------------
 
 
-+ 🌱 I'm currently learning  __JavaScript, TypeScript__
+
 + 💬 Ask me about anything of  __Flutter__
 
 ------------
